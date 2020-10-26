@@ -1,0 +1,25 @@
+{
+    "nombreApp" : "Paginas",
+    "rutas" : [
+        {
+            "ruta" : "menu",
+            "icon" : "menu",
+            "texto": "Menú"
+        },
+        {
+            "ruta" : "chat",
+            "icon" : "chat",
+            "texto": "Chat"
+        },
+        {
+            "ruta" : "lista",
+            "icon" : "list",
+            "texto": "Lista"
+        },
+        {
+            "ruta" : "perfil",
+            "icon" : "person",
+            "texto": "Perfil"
+        }
+    ]
+}
